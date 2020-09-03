@@ -1,3 +1,3 @@
-# actividad_mv
+# ACTIVIDAD_MVC
 
-Repositorio que contiene todas las modificaciones correspondientes a la realización de la aplicación MVC, que utiliza MySQL para almacenar aquellos datos ingresados.
+Repositorio con todas las actulizaciones y actividades de modelo, vista, controlador mediante la carga de datos con MySql
